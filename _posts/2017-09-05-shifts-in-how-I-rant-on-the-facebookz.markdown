@@ -1,0 +1,16 @@
+---
+published: false
+layout: post
+title: A Shift In How I Rant On The Facebookz
+date: 2017-09-01T09:00:00.000Z
+tags:
+  - Kin Lane Rants
+image: 'https://s3.amazonaws.com/kinlane-productions/kin-lane/facebook-kin-lane.png'
+---
+<p><img src="https://s3.amazonaws.com/kinlane-productions/kin-lane/facebook-kin-lane.png" align="right" width="40%" style="padding: 15px;" /></p>In the last nine months I have ranted on Facebook an unhealthy amount of time. I feel like in my older age that the social network has become my go to place for venting because it is where the conservative folks I personally know exist. I grew up in rural Oregon, so I have a number of information starved individuals from all sides of the landscape present, making it the place I go to when it comes to venting about the damage Trump is doing to this world. The venting has helped, but for me to continue being productive, maintaining control over my digital presence, I'm shifting these rants back to within my domain.
+
+I'll still be ranting, but it will be within the [kinlane.com](http://kinlane.com) domain. I will share these rants on Twitter and Facebook (sometimes), but mostly I'm just looking to vent. I really don't care if people read them. Honestly, I know that 98% of the folks I'm talking about will NEVER read on my blog because, well, they don't read. Most of the folks I grew up with live in information starved environments and Facebook is the number way they get information, which has made them very controllable. They don't read books, or search for new sources of information online regularly, they just depend on what people around them send their way--making fake news very, very effective.
+
+I do not hold out much hope for ever changing these folks. They tend to think I'm being snobby, and feel that I'm better than them, when in reality I think about them fondly very often. I am troubled by their lack of motivation, and desire to learn, grow, and evolve. Most importantly, I'm troubled by their whiteness, and resistance to being exposed to any diverse communities, ideas, and culture. It is something that has opened my eyes, mind, and heart, and it really saddens me to have folks I love think this is simply me being snooty, o better than them. There is so much richness out in the world, and in the last five years I've come to see how damaging my life in isolation was to who I really am.
+
+Anyways, you will find my rants back on [rants.kinlane.com](http://rants.kinlane.com), and occasionally shared on Facebook. I want to reclaim these thoughts and emotions and only minimally feed the Facebook machine. The platform profits from our ignorance, pain, suffering, and emotions, and I'm looking to just take some of this back. After 11 months of severe depression around the impact of the election I'm finally feeling strong enough to take back some control over my digital presence in this way. I was seeing how my rants on Facebook would make me immediately feel better, but then quickly feed back into my depression by seeing the damaging comments, dog whistling, and continued sharing of fake news and facts by people I grew up with and love. There is nothing good in that, so I'll still be venting, but then reducing the continued control Facebook asserts over my emotions by keeping things squarely in my domain. #FuckYouFacebook
